@@ -1,0 +1,88 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "description": "Office Supplies",
+      "amount": 200.50,
+      "category": "Office",
+      "date": "2024-10-01",
+      "employee_id": 1
+    },
+    {
+      "id": 2,
+      "description": "Travel Expenses",
+      "amount": 800.75,
+      "category": "Travel",
+      "date": "2024-10-03",
+      "employee_id": 2
+    },
+    {
+      "id": 3,
+      "description": "Client Lunch",
+      "amount": 150.00,
+      "category": "Entertainment",
+      "date": "2024-09-29",
+      "employee_id": 1
+    },
+    {
+      "id": 4,
+      "description": "Hotel Booking",
+      "amount": 1200.00,
+      "category": "Travel",
+      "date": "2024-09-25",
+      "employee_id": 2
+    },
+    {
+      "id": 5,
+      "description": "New Laptop",
+      "amount": 1500.75,
+      "category": "Office",
+      "date": "2024-09-20",
+      "employee_id": 1
+    },
+    {
+      "id": 6,
+      "description": "Marketing Event",
+      "amount": 950.60,
+      "category": "Entertainment",
+      "date": "2024-09-18",
+      "employee_id": 2
+    },
+    {
+      "id": 7,
+      "description": "Taxi Ride",
+      "amount": 45.30,
+      "category": "Travel",
+      "date": "2024-10-04",
+      "employee_id": 1
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "department": "Administration",
+      "email": "emily.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Mark Wilson",
+      "department": "Sales",
+      "email": "mark.wilson@example.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Office"
+    },
+    {
+      "id": 2,
+      "name": "Travel"
+    },
+    {
+      "id": 3,
+      "name": "Entertainment"
+    }
+  ]
+}
